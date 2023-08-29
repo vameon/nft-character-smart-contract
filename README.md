@@ -1,0 +1,1 @@
+# Smart contract NFT-character of the game dEmpire of Vampire
